@@ -1,12 +1,12 @@
 {
-    "minimumVersion":1,
-    "packages":[
+     "minimumVersion" : 1,
+      "packages" : [
         {
-            "name":"BluCraftOnline",
-            "title":"BluCraft Online 2b02b",
-            "version":"2019-04-12-10-20-45",
-            "priority":0,
-            "location":"http://rahnis-testseite.de/blucraft/client1904_NEW/blucraftonline.json"
+            "title" : "BluCraft Online 2b04",
+            "name" : "BluCraftOnline",
+            "version" : "2019-08-07-19-44-09",
+            "location" : "http://rahnis-testseite.de/blucraft/client1908/blucraftonline.json",
+            "priority" : 0
         }
     ]
 }
