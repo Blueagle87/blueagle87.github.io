@@ -1,0 +1,12 @@
+{
+     "minimumVersion" : 1,
+      "packages" : [
+        {
+            "title" : "BluCraft Online 2b04",
+            "name" : "BluCraftOnline",
+            "version" : "2019-08-07-19-44-09",
+            "location" : "http://rahnis-testseite.de/blucraft/client1908/blucraftonline.json",
+            "priority" : 0
+        }
+    ]
+}
