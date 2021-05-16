@@ -7,6 +7,12 @@
             "version" : "2019-08-07-19-44-09",
             "location" : "http://rahnis-testseite.de/blucraft/client1908/blucraftonline.json",
             "priority" : 0
-        }
+        },{
+            "title" : "Vanilla16",
+            "name" : "Vanilla16",
+            "version" : "2021-05-04-09-34-59",
+            "location" : "vanilla16.json",
+            "priority" : 0
+          }
     ]
 }
