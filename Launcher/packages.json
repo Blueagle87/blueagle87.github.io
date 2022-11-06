@@ -2,11 +2,12 @@
      "minimumVersion" : 1,
       "packages" : [
         {
-            "title" : "BluCraft Online 2b05",
+            "title" : "BluCraft Online 2b04",
             "name" : "BluCraftOnline",
-            "version" : "2022-11-06-14-18-00",
-            "location" : "http://grafoprint.de/0d6876ab9290b3e5e6a42108a9a2dd1a05fbaa3a9/BCO/blucraftonline.json",
+            "version" : "2019-08-07-19-44-09",
+            "location" : "http://rahnis-testseite.de/blucraft/client1908/blucraftonline.json",
             "priority" : 0
+
         },{
             "title" : "NoVanilla16",
             "name" : "NoVanilla16",
