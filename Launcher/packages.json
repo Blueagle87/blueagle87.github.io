@@ -18,7 +18,7 @@
           "title" : "BluCraft BETA 2b05",
           "name" : "BluCraftBeta",
           "version" : "2022-11-11-17-03-09",
-          "location" : "http://blucraft.42web.io/00/bco/blucraftbeta.json",
+          "location" : "http://blucraft.42web.io/00/bco/blucraftbeta.json?i=1",
           "priority" : 0
         }
     ]
