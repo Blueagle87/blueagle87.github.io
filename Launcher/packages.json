@@ -9,11 +9,17 @@
             "priority" : 0
 
         },{
-            "title" : "NoVanilla16",
-            "name" : "NoVanilla16",
-            "version" : "2021-06-16-11-36-31",
-            "location" : "http://grafoprint.de/0d6876ab9290b3e5e6a42108a9a2dd1a05fbaa3a9/MC16/novanilla16.json",
-            "priority" : 0
-          }
+          "title" : "NoVanilla16",
+          "name" : "NoVanilla16",
+          "version" : "2021-06-16-11-36-31",
+          "location" : "http://grafoprint.de/0d6876ab9290b3e5e6a42108a9a2dd1a05fbaa3a9/MC16/novanilla16.json",
+          "priority" : 0
+        },{
+          "title" : "BluCraft Online 2b05",
+          "name" : "BluCraft_Online",
+          "version" : "2022-11-06-14-18-00",
+          "location" : "http://blucraft.42web.io/00/bco/blucraft_online.json",
+          "priority" : 0
+        }
     ]
 }
